@@ -32,7 +32,7 @@ Esta estrategia nos permitirá no solo recopilar datos de manera precisa mediant
 
 ***Análisis de resultados:***
 
-` `El manejo de datos mediante el levantamiento de configuración de terreno con estación total en el mismo lugar ha arrojado información valiosa para la optimización de las prácticas agrícolas. La precisión y la exhaustividad de los datos recopilados han permitido una evaluación detallada de la topografía, facilitando la identificación de áreas críticas para la nivelación y la implementación de medidas de conservación del suelo. La validez de estos resultados se ha respaldado mediante la comparación con mediciones históricas y su coherencia con las observaciones de campo, lo que confirma su fiabilidad para la toma de decisiones.
+El manejo de datos mediante el levantamiento de configuración de terreno con estación total en el mismo lugar ha arrojado información valiosa para la optimización de las prácticas agrícolas. La precisión y la exhaustividad de los datos recopilados han permitido una evaluación detallada de la topografía, facilitando la identificación de áreas críticas para la nivelación y la implementación de medidas de conservación del suelo. La validez de estos resultados se ha respaldado mediante la comparación con mediciones históricas y su coherencia con las observaciones de campo, lo que confirma su fiabilidad para la toma de decisiones.
 
 ***Conclusiones:***
 
