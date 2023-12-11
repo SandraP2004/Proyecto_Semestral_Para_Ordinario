@@ -1,4 +1,3 @@
-# Proyecto_Semestral_Para_Ordinario
 ***Ingeniero Topógrafo Geomático***\
 ***“Aplicación de Topografía Agrícola en un predio en la Localidad de Telcruz, Municipio de Cuautitlán de García Barragán, Jalisco”***\
 ***3°B***\
@@ -8,7 +7,7 @@
 ***Barreto Campos Jocelyn Guadalupe***\
 ***Gonzalez Zepeda Sebastián***
 
-***Coquimatlán, Col. A 01 diciembre de 2023***
+***Coquimatlán, Col. A 12 diciembre de 2023***
 
 
 ***Resumen:***
