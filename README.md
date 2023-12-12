@@ -5,6 +5,8 @@
 ***Guizar Duarte Francisco Javier***\
 ***Ríos Rodríguez Huiqui Isaí***\
 ***Barreto Campos Jocelyn Guadalupe***\
+
+
 ***Gonzalez Zepeda Sebastián***
 
 ***Coquimatlán, Col. A 12 diciembre de 2023***
