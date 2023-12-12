@@ -4,7 +4,7 @@
 ***Pérez Villa Sandra Paola***\
 ***Guizar Duarte Francisco Javier***\
 ***Ríos Rodríguez Huiqui Isaí***\
-***Barreto Campos Jocelyn Guadalupe***\
+***Barreto Campos Jocelyn Guadalupe***
 
 
 ***Gonzalez Zepeda Sebastián***
