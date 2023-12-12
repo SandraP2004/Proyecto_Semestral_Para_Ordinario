@@ -1,5 +1,5 @@
 ***Ingeniero Topógrafo Geomático***\
-***“Representación 2D Y 3D de Datos Topográficos con o sin Alturas”***\
+***“Representación 2D o 3D de Datos Topográficos con o sin Alturas”***\
 ***3°B***\
 ***Pérez Villa Sandra Paola***\
 ***Guizar Duarte Francisco Javier***\
